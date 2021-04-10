@@ -16,14 +16,17 @@ In this project I was to create a simple calendar application that allows a user
 Moment.js library was used to work with date and time, this allowed it to display the day at the top of the daily planner.
 
 Bootstrap and fontawesome was used to help create the timeblocks for standard business hours. Each timeblock of the day is color coded to indicate whether it is in the past, present, or future.
-If a user click into a timeblock then the user can enter an event
-and click the save button to save the text for that event in local storage.
+If a user click into a timeblock then the user can enter an event and click the save button to save the text for that event in local storage.
 
 ## Screenshot of my Live Github Page
 
+Daily Planner Blank
 
+<img width="927" alt="Daily Planner Blank" src="https://user-images.githubusercontent.com/79430431/114286194-7c920d00-9a11-11eb-97b8-24074b4ac3b0.png">
 
+Daily Planner with Information Saved
 
+<img width="927" alt="Daily Planner with Info" src="https://user-images.githubusercontent.com/79430431/114286199-8582de80-9a11-11eb-9923-d711754ce3c4.png">
 
 ## Important Links 
 
