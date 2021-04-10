@@ -27,7 +27,11 @@ setInterval(dayPlanner, 10000);
         // Get nearby values of the description in JQuery
         var time = $(this).parent().attr("id");
         var text = $(this).siblings(".description").val();
-        alert ("successfully saved");
+        var feedbackEl = $(".feedback");
+        feedbackEl.text("successfully saved");
+        setTimeout(function() {
+            feedbackEl.text(" ")
+        }, 3000);
 
         // Save text in local storage
         localStorage.setItem(time, text);
