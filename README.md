@@ -36,6 +36,26 @@ https://github.com/vbarajas4/05-Third-Party-API-WorkDayScheduler
 Link to GitHub deployed Webpage 
 https://vbarajas4.github.io/05-Third-Party-API-WorkDayScheduler/
 
+## Framework/Technolgies
+
+HTML 
+
+CSS
+
+JQuery
+
+Moment.js library
+
+Bootstrap
+
+fontawesome
+
+
+## Contact Information
+
+[Email](vbarajas4@gmail.com)
+
+[LinkIn](https://www.linkedin.com/in/vanessa-maldonado-90668110a/)
 
 ## License
 
